@@ -48,20 +48,3 @@ Les codes, sujets, données et comptes rendus sont conservés dans un dépôt pr
 ## 2A — Bases de données
 
 - TP — Base de données Bouchbe
-
-## 3A — Cryptographic Engineering
-
-- TP — AES-128 et cryptographie
-
-## 3A — Threat & Risk Analysis, IT Security
-
-- TP1 — Découverte et reconnaissance OSINT
-- TP2 — OSINT et audit d’un réseau informatique
-
-## À classer — Communications numériques
-
-- TP — Communications numériques et modulations multiporteuses
-
-## À classer — Matière à préciser
-
-- TP1 — Groupe 6
